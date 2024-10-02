@@ -1,0 +1,65 @@
+body{
+    font-family: "Roboto",
+        sans-serif; 
+        
+}
+
+/*.title*/
+
+h1, h2{
+    font-family: "Roboto",
+            sans-serif;
+    font-weight: 700; 
+}
+
+h1{
+        font-size: 56px;
+}
+
+.logo{
+    font-family: "Raleway",
+            sans-serif;
+        font-weight: 700; 
+        font-size: 18px;
+}
+/*font-family: "Roboto",
+        sans-serif;
+    font-weight: 500; */
+
+    h3, .menu-nav .hero-button{
+        font-family: "Roboto",
+                        sans-serif;
+        font-weight: 500;
+    }
+
+    .link {}
+
+    .hero-section {}
+
+    .hero-title {}
+
+    .features {}
+
+    .team-card {}
+
+    .team {}
+
+    .team-title {}
+
+    .team-list {}
+
+    .team-member {}
+
+    .team-name {}
+
+    .team-role {}
+
+    .portfolio {}
+
+    .portfolio-title {}
+
+    .project-card {}
+
+    .portfolio-subtitle {}
+
+    .porfolio-text {}
