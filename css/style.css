@@ -96,8 +96,13 @@ a {}
 
 } */
 
-.address-info .address {
-        font-style: normal;
+.address-info {
+        font-style: normal git status git add --all git commit -m"fix 2.3"
+                git status git push;
+}
+
+.address {
+
         color: #434455;
 }
 
